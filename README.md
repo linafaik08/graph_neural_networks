@@ -1,4 +1,4 @@
-## Graph Neural Networks: Merging Deep Learning with Graphs (Part I)
+## Graph Neural Networks: Merging Deep Learning with Graphs
 > - Author: Lina Faik
 > - Date: April 2021 
 >
